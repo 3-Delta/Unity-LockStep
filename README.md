@@ -8,3 +8,6 @@
 5. Steamworks适配库：https://qinzhuo.coding.net/public/QSteamworks/QSteamworks/git/files
 6. 适配ilruntime的pb https://github.com/kaclok/protobuf3-for-Unity-and-ILRuntime
 7. protoc工具自定义修改 https://github.com/drashnane/protobuf
+8. https://github.com/yiv/blog
+9. https://frog-game.github.io/posts/blog/zhentongbu/
+10.https://www.zhihu.com/people/Coder27/posts
